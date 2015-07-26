@@ -1,7 +1,7 @@
 ---
 title: "Automatic or Manual transmission better for MPG"
-author: "SwhGo_oN"
-date: "June 26, 2014"
+author: "Madhur Gupta"
+date: "July 26,  2015"
 output:
   pdf_document:
     number_sections: yes
